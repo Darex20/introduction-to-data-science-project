@@ -1,6 +1,6 @@
 # UZOP-Project
 
-##Introduction to Data Science Project
+## Introduction to Data Science Project
 
 Dario Pavlović
 - mail : dario.pavlovic@fer.hr 
